@@ -16,5 +16,5 @@ int main(){
 
     float decimal1 = 5.12356789;
 
-    printf("Float of: %f.2 \n", decimal1);
+    printf("Float of: %.2f \n", decimal1);
 }
